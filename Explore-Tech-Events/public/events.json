@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "price": "30$",
+    "event_name": "Cloud Computing Expo",
+    "date": "December 7-9, 2023",
+    "location": "Dhanmondi 34, Dhaka",
+    "img": "https://i.ibb.co/6m4pCfj/card6.jpg",
+    "author_name": "Laura Mitchell",
+    "short_description": "Explore the future of cloud computing at the Cloud Computing Expo. Discover the latest trends in cloud technology, hybrid cloud solutions, and cloud security. Engage with experts who will share insights on optimizing cloud infrastructure for your business needs."
+  },
+  {
+    "id": 2,
+    "price": "20$",
+    "event_name": "TechStartup Fair 2023",
+    "date": "January 4-6, 2023",
+    "location": "Dhaka Regency Hotel & Resort",
+    "img": "https://i.ibb.co/VNSnxtb/card8.jpg",
+    "author_name": "Alex Turner",
+    "short_description": "Are you an aspiring entrepreneur or a startup enthusiast? TechStartup Fair 2023 is the place to be. Connect with investors, mentors, and fellow entrepreneurs. Attend workshops on business strategy, funding, and growth hacking. Don't miss this chance to turn your startup dreams into reality."
+  },
+  {
+    "id": 3,
+    "price": "15$",
+    "event_name": "Cybersecurity Summit",
+    "date": "October 25-27, 2023",
+    "location": "Hotel Millennium Gold, Khulna",
+    "img": "https://i.ibb.co/Q85Ct3w/card4.jpg",
+    "author_name": "Michael Wilson",
+    "short_description": "The Cybersecurity Summit is your gateway to the world of digital security. Learn about the latest cyber threats, best practices in cybersecurity, and innovative defense strategies. Join leading experts as they share their insights on protecting digital assets in an increasingly connected world."
+  },
+  {
+    "id": 4,
+    "price": "18$",
+    "event_name": "AI Innovators Forum",
+    "date": "December 28-30, 2023",
+    "location": "Hotel Star International, Rajshahi",
+    "img": "https://i.ibb.co/NC6QhXB/card9.jpg",
+    "author_name": "David Johnson",
+    "short_description": "The AI Innovators Forum is a must-attend event for anyone passionate about artificial intelligence and machine learning. Discover groundbreaking AI applications, hear from AI pioneers, and participate in interactive demos. Whether you're a seasoned AI professional or just getting started, this event has something for everyone."
+  },
+  {
+    "id": 5,
+    "price": "25$",
+    "event_name": "WebDevCon 2023",
+    "date": "December 1-3, 2023",
+    "location": "Hotel Amanat Continental, Barisal",
+    "img": "https://i.ibb.co/ZzkgdXL/card2.png",
+    "author_name": "Jane Smith",
+    "short_description": "WebDevCon 2023 is the ultimate gathering for web developers and designers. Dive deep into the world of web development with hands-on workshops, panel discussions, and keynote presentations. Learn about the future of web technologies, responsive design, and user experience from industry veterans."
+  },
+  {
+    "id": 6,
+    "price": "10$",
+    "event_name": "Data Science Expo",
+    "date": "January 12-14, 2024",
+    "location": "Hotel Star Pacific, Sylhet",
+    "img": "https://i.ibb.co/JHHf4gW/card7.webp",
+    "author_name": "Sarah Adams",
+    "short_description": "Data Science Expo is the ultimate gathering for data enthusiasts. Dive into the world of data analytics, machine learning, and data-driven decision-making. Whether you're a data scientist, analyst, or just curious about data, this event offers valuable knowledge and networking opportunities."
+  },
+  {
+    "id": 7,
+    "price": "30$",
+    "event_name": "Blockchain Expo 2023",
+    "date": "November 20-22, 2023",
+    "location": "Hotel North Garden, Rangpur",
+    "img": "https://i.ibb.co/FBVgTzd/card3.jpg",
+    "author_name": "Emily Brown",
+    "short_description": "Join us at the Blockchain Expo 2023 to explore the potential of blockchain technology. This event brings together experts and enthusiasts to discuss real-world use cases, decentralized finance, and the future of blockchain. Don't miss out on the chance to network with top players in the blockchain industry."
+  },
+  {
+    "id": 8,
+    "price": "22$",
+    "event_name": "IoT World Conference",
+    "date": "December 14-16, 2023",
+    "location": "Hotel Noorjahan Grand, Comilla",
+    "img": "https://i.ibb.co/yhpqf4v/card5.png",
+    "author_name": "Daniel Lee",
+    "short_description": "The IoT World Conference is where the Internet of Things comes to life. Learn about IoT applications in smart cities, healthcare, and industry 4.0. Hear from industry leaders and innovators who are shaping the future of IoT. Don't miss this opportunity to stay on the cutting edge of IoT technology."
+  },
+  {
+    "id": 9,
+    "price": "28$",
+    "event_name": "TechX Summit 2023",
+    "date": "November 15-17, 2023",
+    "location": "Hotel Al-Amin, Mymensingh",
+    "img": "https://i.ibb.co/vXgV8rP/card1.jpg",
+    "author_name": "John Doe",
+    "short_description": "TechX Summit 2023 is a premier tech event that brings together industry leaders, innovators, and enthusiasts from around the world. Join us for three days of engaging talks, workshops, and networking opportunities. Explore the latest trends in artificial intelligence, blockchain, and cybersecurity, and gain valuable insights from top experts in the field."
+  }
+]
